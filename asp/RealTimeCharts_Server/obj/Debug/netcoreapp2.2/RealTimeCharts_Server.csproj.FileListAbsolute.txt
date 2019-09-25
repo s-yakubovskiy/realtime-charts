@@ -1,0 +1,14 @@
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/bin/Debug/netcoreapp2.2/RealTimeCharts_Server.deps.json
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/bin/Debug/netcoreapp2.2/RealTimeCharts_Server.runtimeconfig.json
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/bin/Debug/netcoreapp2.2/RealTimeCharts_Server.runtimeconfig.dev.json
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/bin/Debug/netcoreapp2.2/RealTimeCharts_Server.dll
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/bin/Debug/netcoreapp2.2/RealTimeCharts_Server.pdb
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.csprojAssemblyReference.cache
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.csproj.CoreCompileInputs.cache
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.RazorAssemblyInfo.cache
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.RazorAssemblyInfo.cs
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.AssemblyInfoInputs.cache
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.AssemblyInfo.cs
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.RazorTargetAssemblyInfo.cache
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.dll
+/app/realtime-charts-signalr-angular/RealTimeCharts_Server/RealTimeCharts_Server/obj/Debug/netcoreapp2.2/RealTimeCharts_Server.pdb

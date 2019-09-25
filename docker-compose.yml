@@ -1,0 +1,24 @@
+version: '3'
+services:
+  back:
+    network_mode: host
+    build:
+      context: .
+      dockerfile: ./asp/Dockerfile
+    #image: "dotnet2.2"
+    container_name: netcore2.2
+    ports:
+      - '5000:5000'
+      - '5001:5001'
+  
+  front:
+    network_mode: host
+    build:
+      context: .
+      dockerfile: ./ang/Dockerfile
+    container_name: angular
+    ports:
+      - '4200:4200'
+
+
+
